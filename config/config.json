@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "developer",
+    "password": "Hjv2.pK91gB!",
+    "database": "DirectoryJS",
+    "host": "45.32.91.7",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "developer",
+    "password": "Hjv2.pK91gB!",
+    "database": "DirectoryJS",
+    "host": "45.32.91.7",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "developer",
+    "password": "Hjv2.pK91gB!",
+    "database": "DirectoryJS",
+    "host": "45.32.91.7",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
